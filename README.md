@@ -24,6 +24,8 @@ https://github.com/muntazirabidi/deeplearning_courses/blob/main/Introduction%20t
 
 
 
+### Week 2
+
 
 ## [AI for everyone Course by Andrew NG]([https://github.com/muntazirabidi/deeplearning_courses/tree/main/Introduction%20to%20Tensorflow](https://www.deeplearning.ai/courses/ai-for-everyone/))
 
