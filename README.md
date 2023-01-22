@@ -3,7 +3,7 @@
 This repository contains materials from the DeepLearning.AI, Tensorflow Developer Professional Certificate from Coursera. Following are the courses covered in the certificate. 
 
 
-## [AI for everyone Course by Andrew NG]([https://github.com/muntazirabidi/deeplearning_courses/tree/main/Introduction%20to%20Tensorflow](https://www.deeplearning.ai/courses/ai-for-everyone/))
+# [AI for everyone Course by Andrew NG]([https://github.com/muntazirabidi/deeplearning_courses/tree/main/Introduction%20to%20Tensorflow](https://www.deeplearning.ai/courses/ai-for-everyone/))
 
 **Notes**
 
@@ -12,7 +12,7 @@ This repository contains materials from the DeepLearning.AI, Tensorflow Develope
 - [Week 3: Building AI in Your Company](https://github.com/muntazirabidi/deeplearning_courses/blob/main/AI%20for%20Everyone/C1_W3.pdf)
 - [Week 4: AI & Society](https://github.com/muntazirabidi/deeplearning_courses/blob/main/AI%20for%20Everyone/C1_W4.pdf)
 
-## Course 1: [Introduction to Tensorflow for Artificial Intelligence, Machine Learning, and Deep Learning](https://github.com/muntazirabidi/deeplearning_courses/tree/main/Introduction%20to%20Tensorflow)
+# Course 1: [Introduction to Tensorflow for Artificial Intelligence, Machine Learning, and Deep Learning](https://github.com/muntazirabidi/deeplearning_courses/tree/main/Introduction%20to%20Tensorflow)
 
 ### Week 1
 Learning objectives of the first week: 
@@ -109,7 +109,7 @@ The notes of the content covered in the fourth week can be accessed here: [fourt
 - [Assignment 4: Handling Complex Images](https://github.com/muntazirabidi/deeplearning_courses/blob/main/Introduction%20to%20Tensorflow/C1W4_Assignment.ipynb)
 
 
-## Cpurse 2: Convolutional Neural Networks in TensorFlow
+# Course 2: Convolutional Neural Networks in TensorFlow
 
 In this course we'll go deeper into using ConvNets will real-world data, and learn about techniques that you can use to improve your ConvNet performance, particularly when doing image classification! 
 
