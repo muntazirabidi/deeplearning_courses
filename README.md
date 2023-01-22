@@ -68,9 +68,9 @@ The development of AI is creating new opportunities to improve the lives of peop
 
 **Learning Objectives**
 
-Use callback functions to interrupt training after meeting a threshold accuracy
-Test the effect of adding convolution and MaxPooling to the neural network for classifying Fashion MNIST images on classification accuracy
-Explain and visualize how convolution and MaxPooling aid in image classification tasks
+- Use callback functions to interrupt training after meeting a threshold accuracy
+- Test the effect of adding convolution and MaxPooling to the neural network for classifying Fashion MNIST images on classification accuracy
+- Explain and visualize how convolution and MaxPooling aid in image classification tasks
 
 **Notes**
 
