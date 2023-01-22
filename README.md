@@ -52,6 +52,11 @@ The development of AI is creating new opportunities to improve the lives of peop
 
 [More to read ...](https://ai.google/responsibilities/responsible-ai-practices/)
 
+- [Fairness](https://ai.google/responsibilities/responsible-ai-practices/?category=fairness)
+- [Interpretability](https://ai.google/responsibilities/responsible-ai-practices/?category=interpretability)
+- [Privacy](https://ai.google/responsibilities/responsible-ai-practices/?category=privacy)
+- [Security](https://ai.google/responsibilities/responsible-ai-practices/?category=security)
+
 **Jupyter Notebooks**
 
 
