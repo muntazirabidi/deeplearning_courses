@@ -13,8 +13,13 @@ Learning objectives of the first week:
 - Use TensorFlow to build a single layer neural network for fitting linear models
 
 **Notes** 
+
 The notes of the content covered in the first week can be accessed here: [first week notes](
 https://github.com/muntazirabidi/deeplearning_courses/blob/main/Introduction%20to%20Tensorflow/Notes/C1_W1.pdf)
+
+**Jupyter Notebooks**
+
+- [Hello World Assignment](https://github.com/muntazirabidi/deeplearning_courses/blob/main/Introduction%20to%20Tensorflow/C1_W1_Lab_1_hello_world_nn.ipynb)
 
 
 
