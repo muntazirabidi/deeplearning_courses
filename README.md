@@ -106,5 +106,6 @@ The notes of the content covered in the fourth week can be accessed here: [fourt
 - [Training with ImageDataGenerator](https://github.com/muntazirabidi/deeplearning_courses/blob/main/Introduction%20to%20Tensorflow/C1_W4_Lab_1_image_generator_no_validation.ipynb)
 - [ImageDataGenerator with a Validation Set](https://github.com/muntazirabidi/deeplearning_courses/blob/main/Introduction%20to%20Tensorflow/C1_W4_Lab_2_image_generator_with_validation.ipynb)
 - [Effect of Compacted Images in Training](https://github.com/muntazirabidi/deeplearning_courses/blob/main/Introduction%20to%20Tensorflow/C1_W4_Lab_3_compacted_images.ipynb)
+- [Assignment 4: Handling Complex Images](https://github.com/muntazirabidi/deeplearning_courses/blob/main/Introduction%20to%20Tensorflow/C1W4_Assignment.ipynb)
 
 
