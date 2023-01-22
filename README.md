@@ -1,2 +1,3 @@
 # deeplearning_courses
-DeepLearning AI Course materials
+
+This repository contains materials from the DeepLearning.AI, Tensorflow Developer Professional Certificate. 
