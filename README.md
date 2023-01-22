@@ -76,6 +76,9 @@ The development of AI is creating new opportunities to improve the lives of peop
 
 The notes of the content covered in the third week can be accessed here: [third week notes](https://github.com/muntazirabidi/deeplearning_courses/blob/main/Introduction%20to%20Tensorflow/Notes/C1_W3.pdf)
 
+- [tf.keras.layers.Conv2D](https://www.tensorflow.org/api_docs/python/tf/keras/layers/Conv2D)
+- [tf.keras.layers.MaxPool2D](https://www.tensorflow.org/api_docs/python/tf/keras/layers/MaxPool2D)
+
 
 ### Week 4
 
