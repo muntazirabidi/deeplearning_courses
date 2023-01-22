@@ -89,4 +89,5 @@ The notes of the content covered in the fourth week can be accessed here: [fourt
 
 **Jupyter Notebooks**
 - [Improving Computer Vision Accuracy using Convolutions](https://github.com/muntazirabidi/deeplearning_courses/blob/main/Introduction%20to%20Tensorflow/C1_W3_Lab_1_improving_accuracy_using_convolutions.ipynb)
+- [Exploring Convolutions](https://github.com/muntazirabidi/deeplearning_courses/blob/main/Introduction%20to%20Tensorflow/C1_W3_Lab_2_exploring_convolutions.ipynb)
 
