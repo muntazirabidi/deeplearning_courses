@@ -12,7 +12,7 @@ This repository contains materials from the DeepLearning.AI, Tensorflow Develope
 - [Week 3: Building AI in Your Company](https://github.com/muntazirabidi/deeplearning_courses/blob/main/AI%20for%20Everyone/C1_W3.pdf)
 - [Week 4: AI & Society](https://github.com/muntazirabidi/deeplearning_courses/blob/main/AI%20for%20Everyone/C1_W4.pdf)
 
-## 1) [Introduction to Tensorflow for Artificial Intelligence, Machine Learning, and Deep Learning](https://github.com/muntazirabidi/deeplearning_courses/tree/main/Introduction%20to%20Tensorflow)
+## Course 1: [Introduction to Tensorflow for Artificial Intelligence, Machine Learning, and Deep Learning](https://github.com/muntazirabidi/deeplearning_courses/tree/main/Introduction%20to%20Tensorflow)
 
 ### Week 1
 Learning objectives of the first week: 
@@ -108,4 +108,10 @@ The notes of the content covered in the fourth week can be accessed here: [fourt
 - [Effect of Compacted Images in Training](https://github.com/muntazirabidi/deeplearning_courses/blob/main/Introduction%20to%20Tensorflow/C1_W4_Lab_3_compacted_images.ipynb)
 - [Assignment 4: Handling Complex Images](https://github.com/muntazirabidi/deeplearning_courses/blob/main/Introduction%20to%20Tensorflow/C1W4_Assignment.ipynb)
 
+
+# Cpurse 2: Convolutional Neural Networks in TensorFlow
+
+## Week 1
+
+**Learning Objectives**
 
