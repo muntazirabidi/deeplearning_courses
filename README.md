@@ -111,7 +111,13 @@ The notes of the content covered in the fourth week can be accessed here: [fourt
 
 ## Cpurse 2: Convolutional Neural Networks in TensorFlow
 
+In this course we'll go deeper into using ConvNets will real-world data, and learn about techniques that you can use to improve your ConvNet performance, particularly when doing image classification! 
+
 ## Week 1
 
 **Learning Objectives**
 
+- Gain understanding about Keras’ utilities for pre-processing image data, in particular the ImageDataGenerator class
+- Develop helper functions to move files around the filesystem so that they can be fed to the ImageDataGenerator
+- Learn how to plot training and validation accuracies to evaluate model performance
+- Build a classifier using convolutional neural networks for performing cats vs dogs classification
