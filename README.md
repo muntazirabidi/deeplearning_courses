@@ -98,6 +98,9 @@ The notes of the content covered in the third week can be accessed here: [third 
 
 The notes of the content covered in the fourth week can be accessed here: [fourth week notes](https://github.com/muntazirabidi/deeplearning_courses/blob/main/Introduction%20to%20Tensorflow/Notes/C1_W4.pdf)
 
+- [Binary Cross Entropy](https://gombru.github.io/2018/05/23/cross_entropy_loss/)
+- [RMSprop](https://www.tensorflow.org/api_docs/python/tf/keras/optimizers/experimental/RMSprop)
+
 **Jupyter Notebooks**
 - [Training with ImageDataGenerator](https://github.com/muntazirabidi/deeplearning_courses/blob/main/Introduction%20to%20Tensorflow/C1_W4_Lab_1_image_generator_no_validation.ipynb)
 - [ImageDataGenerator with a Validation Set](https://github.com/muntazirabidi/deeplearning_courses/blob/main/Introduction%20to%20Tensorflow/C1_W4_Lab_2_image_generator_with_validation.ipynb)
