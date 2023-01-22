@@ -83,6 +83,12 @@ The notes of the content covered in the third week can be accessed here: [third 
 
 ### Week 4
 
+**Learning Objectives**
+
+- Reflect on the possible shortcomings of your binary classification model implementation
+- Execute image preprocessing with the Keras ImageDataGenerator functionality
+- Carry out real life image classification by leveraging a multilayer neural network for binary classification
+
 **Notes**
 
 The notes of the content covered in the fourth week can be accessed here: [fourth week notes](https://github.com/muntazirabidi/deeplearning_courses/blob/main/Introduction%20to%20Tensorflow/Notes/C1_W4.pdf)
