@@ -44,7 +44,7 @@ https://github.com/muntazirabidi/deeplearning_courses/blob/main/Introduction%20t
 
 **Notes**
 
-The notes of the content covered in the second week can be accessed here: second week notes
+The notes of the content covered in the second week can be accessed here: [second week notes](https://github.com/muntazirabidi/deeplearning_courses/blob/main/Introduction%20to%20Tensorflow/Notes/C1_W2.pdf)
 
 **Responsible AI Practices**
 
@@ -66,9 +66,20 @@ The development of AI is creating new opportunities to improve the lives of peop
 
 ### Week 3
 
+**Learning Objectives**
+
+Use callback functions to interrupt training after meeting a threshold accuracy
+Test the effect of adding convolution and MaxPooling to the neural network for classifying Fashion MNIST images on classification accuracy
+Explain and visualize how convolution and MaxPooling aid in image classification tasks
+
+**Notes**
+
+The notes of the content covered in the third week can be accessed here: [third week notes](https://github.com/muntazirabidi/deeplearning_courses/blob/main/Introduction%20to%20Tensorflow/Notes/C1_W3.pdf)
 
 
 ### Week 4
 
+**Notes**
 
+The notes of the content covered in the fourth week can be accessed here: [fourth week notes](https://github.com/muntazirabidi/deeplearning_courses/blob/main/Introduction%20to%20Tensorflow/Notes/C1_W4.pdf)
 
