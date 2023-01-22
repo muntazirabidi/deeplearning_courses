@@ -1,4 +1,4 @@
-# deeplearning_courses
+# TensorFlow Developer Courses
 
 This repository contains materials from the DeepLearning.AI, Tensorflow Developer Professional Certificate from Coursera. Following are the courses covered in the certificate. 
 
