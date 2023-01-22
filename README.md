@@ -42,3 +42,6 @@ https://github.com/muntazirabidi/deeplearning_courses/blob/main/Introduction%20t
 - Implement pixel value normalization to speed up network training
 - Build a multilayer neural network for classifying the Fashion MNIST image dataset
 
+**Notes**
+The notes of the content covered in the second week can be accessed here: second week notes
+
