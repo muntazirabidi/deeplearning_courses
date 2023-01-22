@@ -109,7 +109,7 @@ The notes of the content covered in the fourth week can be accessed here: [fourt
 - [Assignment 4: Handling Complex Images](https://github.com/muntazirabidi/deeplearning_courses/blob/main/Introduction%20to%20Tensorflow/C1W4_Assignment.ipynb)
 
 
-# Course 2: [Convolutional Neural Networks in TensorFlow] (https://github.com/muntazirabidi/deeplearning_courses/tree/main/Convolutional%20Neural%20Networks%20in%20TensorFlow)
+# Course 2: [Convolutional Neural Networks in TensorFlow](https://github.com/muntazirabidi/deeplearning_courses/tree/main/Convolutional%20Neural%20Networks%20in%20TensorFlow)
 
 In this course we'll go deeper into using ConvNets will real-world data, and learn about techniques that you can use to improve your ConvNet performance, particularly when doing image classification! 
 
