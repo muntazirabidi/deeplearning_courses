@@ -37,3 +37,8 @@ https://github.com/muntazirabidi/deeplearning_courses/blob/main/Introduction%20t
 ### Week 2
 
 
+- Use callback functions for tracking model loss and accuracy during training
+- Make predictions on how the layer size affects network predictions and training speed
+- Implement pixel value normalization to speed up network training
+- Build a multilayer neural network for classifying the Fashion MNIST image dataset
+
