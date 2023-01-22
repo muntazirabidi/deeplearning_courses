@@ -61,7 +61,7 @@ The development of AI is creating new opportunities to improve the lives of peop
 
 - [Get hands-on with computer vision](https://github.com/muntazirabidi/deeplearning_courses/blob/main/Introduction%20to%20Tensorflow/C1_W2_Lab_1_beyond_hello_world.ipynb)
 - [Using Callbacks to Control Training](https://github.com/muntazirabidi/deeplearning_courses/blob/main/Introduction%20to%20Tensorflow/C1_W2_Lab_2_callbacks.ipynb)
-- [Implementing Callbacks in TensorFlow using the MNIST Dataset]()
+- [Assignment 2: Implementing Callbacks in TensorFlow using the MNIST Dataset](https://github.com/muntazirabidi/deeplearning_courses/blob/main/Introduction%20to%20Tensorflow/C1W2_Assignment.ipynb)
 
 
 ### Week 3
