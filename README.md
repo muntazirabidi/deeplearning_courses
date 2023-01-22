@@ -20,6 +20,7 @@ https://github.com/muntazirabidi/deeplearning_courses/blob/main/Introduction%20t
 **Jupyter Notebooks**
 
 - [Hello World Assignment](https://github.com/muntazirabidi/deeplearning_courses/blob/main/Introduction%20to%20Tensorflow/C1_W1_Lab_1_hello_world_nn.ipynb)
+- [Assignment 1: Housing Prices](https://github.com/muntazirabidi/deeplearning_courses/blob/main/Introduction%20to%20Tensorflow/C1W1_Assignment.ipynb)
 
 
 
