@@ -78,6 +78,7 @@ The notes of the content covered in the third week can be accessed here: [third 
 
 - [tf.keras.layers.Conv2D](https://www.tensorflow.org/api_docs/python/tf/keras/layers/Conv2D)
 - [tf.keras.layers.MaxPool2D](https://www.tensorflow.org/api_docs/python/tf/keras/layers/MaxPool2D)
+- [To learn more about convolutions ... ](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)
 
 
 ### Week 4
