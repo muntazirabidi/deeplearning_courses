@@ -62,3 +62,11 @@ The development of AI is creating new opportunities to improve the lives of peop
 - [Get hands-on with computer vision](https://github.com/muntazirabidi/deeplearning_courses/blob/main/Introduction%20to%20Tensorflow/C1_W2_Lab_1_beyond_hello_world.ipynb)
 
 
+### Week 3
+
+
+
+### Week 4
+
+
+
