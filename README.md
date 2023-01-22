@@ -80,6 +80,11 @@ The notes of the content covered in the third week can be accessed here: [third 
 - [tf.keras.layers.MaxPool2D](https://www.tensorflow.org/api_docs/python/tf/keras/layers/MaxPool2D)
 - [To learn more about convolutions ... ](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)
 
+**Jupyter Notebooks**
+- [Improving Computer Vision Accuracy using Convolutions](https://github.com/muntazirabidi/deeplearning_courses/blob/main/Introduction%20to%20Tensorflow/C1_W3_Lab_1_improving_accuracy_using_convolutions.ipynb)
+- [Exploring Convolutions](https://github.com/muntazirabidi/deeplearning_courses/blob/main/Introduction%20to%20Tensorflow/C1_W3_Lab_2_exploring_convolutions.ipynb)
+- [Assignment 3: Improve MNIST with Convolutions](https://github.com/muntazirabidi/deeplearning_courses/blob/main/Introduction%20to%20Tensorflow/C1W3_Assignment.ipynb)
+
 
 ### Week 4
 
@@ -94,7 +99,7 @@ The notes of the content covered in the third week can be accessed here: [third 
 The notes of the content covered in the fourth week can be accessed here: [fourth week notes](https://github.com/muntazirabidi/deeplearning_courses/blob/main/Introduction%20to%20Tensorflow/Notes/C1_W4.pdf)
 
 **Jupyter Notebooks**
-- [Improving Computer Vision Accuracy using Convolutions](https://github.com/muntazirabidi/deeplearning_courses/blob/main/Introduction%20to%20Tensorflow/C1_W3_Lab_1_improving_accuracy_using_convolutions.ipynb)
-- [Exploring Convolutions](https://github.com/muntazirabidi/deeplearning_courses/blob/main/Introduction%20to%20Tensorflow/C1_W3_Lab_2_exploring_convolutions.ipynb)
-- [Assignment 3: Improve MNIST with Convolutions](https://github.com/muntazirabidi/deeplearning_courses/blob/main/Introduction%20to%20Tensorflow/C1W3_Assignment.ipynb)
+- [Training with ImageDataGenerator](https://github.com/muntazirabidi/deeplearning_courses/blob/main/Introduction%20to%20Tensorflow/C1_W4_Lab_1_image_generator_no_validation.ipynb)
+- [ImageDataGenerator with a Validation Set](https://github.com/muntazirabidi/deeplearning_courses/blob/main/Introduction%20to%20Tensorflow/C1_W4_Lab_2_image_generator_with_validation.ipynb)
+
 
