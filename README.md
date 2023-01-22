@@ -109,7 +109,7 @@ The notes of the content covered in the fourth week can be accessed here: [fourt
 - [Assignment 4: Handling Complex Images](https://github.com/muntazirabidi/deeplearning_courses/blob/main/Introduction%20to%20Tensorflow/C1W4_Assignment.ipynb)
 
 
-# Cpurse 2: Convolutional Neural Networks in TensorFlow
+## Cpurse 2: Convolutional Neural Networks in TensorFlow
 
 ## Week 1
 
