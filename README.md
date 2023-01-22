@@ -46,6 +46,12 @@ https://github.com/muntazirabidi/deeplearning_courses/blob/main/Introduction%20t
 
 The notes of the content covered in the second week can be accessed here: second week notes
 
+**Responsible AI Practices**
+
+The development of AI is creating new opportunities to improve the lives of people around the world, from business to healthcare to education. It is also raising new questions about the best way to build fairness, interpretability, privacy, and security into these systems.
+
+[More to read ...](https://ai.google/responsibilities/responsible-ai-practices/)
+
 **Jupyter Notebooks**
 
 
