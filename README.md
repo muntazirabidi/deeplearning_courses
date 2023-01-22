@@ -43,5 +43,10 @@ https://github.com/muntazirabidi/deeplearning_courses/blob/main/Introduction%20t
 - Build a multilayer neural network for classifying the Fashion MNIST image dataset
 
 **Notes**
+
 The notes of the content covered in the second week can be accessed here: second week notes
+
+**Jupyter Notebooks**
+
+
 
