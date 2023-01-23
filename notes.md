@@ -1,3 +1,15 @@
+- Some helper modules:
+```.py
+import os
+import zipfile
+import random
+import shutil
+import tensorflow as tf
+from tensorflow.keras.preprocessing.image import ImageDataGenerator
+from shutil import copyfile
+import matplotlib.pyplot as plt
+```
+
 - `os.listdir(DIRECTORY)` returns a list with the contents of that directory.
 
 - `os.path.getsize(PATH)` returns the size of the file
@@ -196,14 +208,4 @@ for layer_name, feature_map in zip(layer_names, successive_feature_maps):
     plt.imshow( display_grid, aspect='auto', cmap='viridis' ) 
 ```
 
-- Some helper modules:
-```.py
-import os
-import zipfile
-import random
-import shutil
-import tensorflow as tf
-from tensorflow.keras.preprocessing.image import ImageDataGenerator
-from shutil import copyfile
-import matplotlib.pyplot as plt
-```
+
