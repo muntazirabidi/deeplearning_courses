@@ -54,3 +54,14 @@ validation_generator =  test_datagen.flow_from_directory(validation_dir,
 ```
 
 - You can use review the architecture of the model using `model.summary()` method.
+
+- To train the model:
+
+```.py
+history = model.fit(
+            train_generator,
+            epochs=15,
+            validation_data=validation_generator,
+            verbose=2
+            )
+```
