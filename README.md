@@ -134,3 +134,15 @@ In this course we'll go deeper into using ConvNets will real-world data, and lea
 
 **Jupyter Notebooks**
 - [Using more sophisticated images with Convolutional Neural Networks](https://github.com/muntazirabidi/deeplearning_courses/blob/main/Convolutional%20Neural%20Networks%20in%20TensorFlow/Notebooks/C2_W1_Lab_1_cats_vs_dogs%20(1).ipynb)
+- [Assignment1 : Using CNN's with the Cats vs Dogs Dataset](https://github.com/muntazirabidi/deeplearning_courses/blob/main/Convolutional%20Neural%20Networks%20in%20TensorFlow/Notebooks/C2W1_Assignment.ipynb)
+
+
+
+## Week 1
+
+**Learning Objectives**
+
+- Recognize the impact of adding image augmentation to the training process, particularly in time
+- Demonstrate overfitting or lack of by plotting training and validation accuracies
+- Familiarize with the ImageDataGenerator parameters used for carrying out image augmentation
+- Learn how to mitigate overfitting by using data augmentation techniques
