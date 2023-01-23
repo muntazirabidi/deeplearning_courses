@@ -27,3 +27,28 @@ model.compile(optimizer=RMSprop(learning_rate=0.001),
               loss='binary_crossentropy',
               metrics = ['accuracy'])
 ```
+
+- Data Preprocessing using `DataImagegenerator`:
+
+```.py
+from tensorflow.keras.preprocessing.image import ImageDataGenerator
+
+# All images will be rescaled by 1./255.
+train_datagen = ImageDataGenerator( rescale = 1.0/255. )
+test_datagen  = ImageDataGenerator( rescale = 1.0/255. )
+
+# --------------------
+# Flow training images in batches of 20 using train_datagen generator
+# --------------------
+train_generator = train_datagen.flow_from_directory(train_dir,
+                                                    batch_size=20,
+                                                    class_mode='binary',
+                                                    target_size=(150, 150))     
+# --------------------
+# Flow validation images in batches of 20 using test_datagen generator
+# --------------------
+validation_generator =  test_datagen.flow_from_directory(validation_dir,
+                                                         batch_size=20,
+                                                         class_mode  = 'binary',
+                                                         target_size = (150, 150))
+```
