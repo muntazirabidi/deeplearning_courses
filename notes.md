@@ -1,5 +1,5 @@
 - Training a convolutional neural network. Images => Conv2D => MaxPooling => Flatten Layer => Dense Layer => Output
-```{.python}
+```.py
 import tensorflow as tf
 
 model = tf.keras.models.Sequential([
