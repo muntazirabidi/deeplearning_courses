@@ -1,3 +1,11 @@
+- `os.listdir(DIRECTORY)` returns a list with the contents of that directory.
+
+- `os.path.getsize(PATH)` returns the size of the file
+
+- `copyfile(source, destination)` copies a file from source to destination
+
+- `random.sample(list, len(list))` shuffles a list
+
 - Join paths using `os` module:
 
 ```.py
