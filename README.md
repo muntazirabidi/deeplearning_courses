@@ -101,6 +101,7 @@ The notes of the content covered in the fourth week can be accessed here: [fourt
 - [Binary Cross Entropy](https://gombru.github.io/2018/05/23/cross_entropy_loss/)
 - [RMSprop](https://www.tensorflow.org/api_docs/python/tf/keras/optimizers/experimental/RMSprop)
 - [Binary Classification video](https://www.youtube.com/watch?v=eqEc66RFY0I&t=6s)
+- [Stochastic Gradient Descent](https://developers.google.com/machine-learning/glossary/#SGD)
 
 **Jupyter Notebooks**
 - [Training with ImageDataGenerator](https://github.com/muntazirabidi/deeplearning_courses/blob/main/Introduction%20to%20Tensorflow/C1_W4_Lab_1_image_generator_no_validation.ipynb)
