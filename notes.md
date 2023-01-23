@@ -1,3 +1,12 @@
+- Join paths using `os` module:
+
+```.py
+source_path = '/tmp/PetImages'
+
+source_path_dogs = os.path.join(source_path, 'Dog')
+source_path_cats = os.path.join(source_path, 'Cat')
+```
+
 - To download the dataset online, use the following function:
 ```.py
 !wget --no-check-certificate \
