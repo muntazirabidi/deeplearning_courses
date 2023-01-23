@@ -121,3 +121,6 @@ In this course we'll go deeper into using ConvNets will real-world data, and lea
 - Develop helper functions to move files around the filesystem so that they can be fed to the ImageDataGenerator
 - Learn how to plot training and validation accuracies to evaluate model performance
 - Build a classifier using convolutional neural networks for performing cats vs dogs classification
+
+**Data**
+[Dogs vs Cats Dataset from Kaagle](https://www.kaggle.com/competitions/dogs-vs-cats/data)
