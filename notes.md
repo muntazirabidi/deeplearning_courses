@@ -30,6 +30,36 @@ zip_ref.extractall('/tmp')
 zip_ref.close()
 ```
 
+- Split data into training and validaiton set and copy files from source to destination.
+
+```.py
+def split_data(SOURCE_DIR, TRAINING_DIR, VALIDATION_DIR, SPLIT_SIZE):
+
+  ### START CODE HERE
+  files = os.listdir(SOURCE_DIR)
+  files = [file for file in files if os.path.getsize(os.path.join(SOURCE_DIR, file)) > 0]
+  random.shuffle(files)
+  split_index = int(SPLIT_SIZE * len(files))
+    
+  training_files = files[:split_index]
+  validation_files = files[split_index:]
+    
+  for file in training_files:
+    source = os.path.join(SOURCE_DIR, file)
+    destination = os.path.join(TRAINING_DIR, file)
+    copyfile(source, destination)
+    
+  for file in validation_files:
+    source = os.path.join(SOURCE_DIR, file)
+    destination = os.path.join(VALIDATION_DIR, file)
+    copyfile(source, destination)
+
+  print(f'{len(training_files)} training files copied to {TRAINING_DIR}')
+  print(f'{len(validation_files)} validation files copied to {VALIDATION_DIR}')
+
+
+  ### END CODE HERE
+```
 
 - Training a convolutional neural network. Images => Conv2D => MaxPooling => Flatten Layer => Dense Layer => Output
 ```.py
