@@ -73,6 +73,25 @@ def split_data(SOURCE_DIR, TRAINING_DIR, VALIDATION_DIR, SPLIT_SIZE):
   ### END CODE HERE
 ```
 
+- Creating a callback class
+```.py
+class myCallback(tf.keras.callbacks.Callback):
+  def on_epoch_end(self, epoch, logs={}):
+    if(logs.get('accuracy') > 0.80):
+      print("\nAccuracy is more than 80% so cancelling training!")
+      self.model.stop_training = True
+
+    # Check accuracy
+    #if(logs.get('loss') < 0.4):
+
+      # Stop if threshold is met
+     # print("\nLoss is lower than 0.4 so cancelling training!")
+      #self.model.stop_training = True
+
+# Instantiate class
+callbacks = myCallback()
+```
+
 - Training a convolutional neural network. Images => Conv2D => MaxPooling => Flatten Layer => Dense Layer => Output
 ```.py
 import tensorflow as tf
