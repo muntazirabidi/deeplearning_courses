@@ -17,4 +17,4 @@ model = tf.keras.models.Sequential([
     # Only 1 output neuron. It will contain a value from 0-1 where 0 for 1 class ('cats') and 1 for the other ('dogs')
     tf.keras.layers.Dense(1, activation='sigmoid')  
 ])
-``` python
+```
