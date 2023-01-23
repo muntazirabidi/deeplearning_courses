@@ -138,7 +138,7 @@ In this course we'll go deeper into using ConvNets will real-world data, and lea
 
 
 
-## Week 1
+## Week 2
 
 **Learning Objectives**
 
