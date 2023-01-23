@@ -129,4 +129,4 @@ In this course we'll go deeper into using ConvNets will real-world data, and lea
 
 
 **Jupyter Notebooks**
-- [Using more sophisticated images with Convolutional Neural Networks](https://github.com/muntazirabidi/deeplearning_courses/blob/main/Convolutional%20Neural%20Networks%20in%20TensorFlow/Notebooks/C2_W1_Lab_1_cats_vs_dogs.ipynb)
+- [Using more sophisticated images with Convolutional Neural Networks](https://github.com/muntazirabidi/deeplearning_courses/blob/main/Convolutional%20Neural%20Networks%20in%20TensorFlow/Notebooks/C2_W1_Lab_1_cats_vs_dogs%20(1).ipynb)
