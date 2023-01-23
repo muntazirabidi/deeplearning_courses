@@ -65,3 +65,5 @@ history = model.fit(
             verbose=2
             )
 ```
+
+- The `loss` and `accuracy` are great indicators of progress in training. loss measures the current model prediction against the known labels, calculating the result. accuracy, on the other hand, is the portion of correct guesses.
