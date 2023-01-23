@@ -123,4 +123,5 @@ In this course we'll go deeper into using ConvNets will real-world data, and lea
 - Build a classifier using convolutional neural networks for performing cats vs dogs classification
 
 **Data**
+
 [Dogs vs Cats Dataset from Kaagle](https://www.kaggle.com/competitions/dogs-vs-cats/data)
