@@ -20,7 +20,7 @@ model = tf.keras.models.Sequential([
 ```
 
 - Compiling the model:
-```
+```.py
 from tensorflow.keras.optimizers import RMSprop
 
 model.compile(optimizer=RMSprop(learning_rate=0.001),
