@@ -68,7 +68,7 @@ history = model.fit(
 
 - The `loss` and `accuracy` are great indicators of progress in training. loss measures the current model prediction against the known labels, calculating the result. accuracy, on the other hand, is the portion of correct guesses.
 
-- Visulaising intermediate representation in CNN:
+- **Visulaising intermediate representation in CNN:** To get a feel for what kind of features your CNN has learned, one fun thing to do is to visualize how an input gets transformed as it goes through the model.
 ```.py
 import numpy as np
 import random
