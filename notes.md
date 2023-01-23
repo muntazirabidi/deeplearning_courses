@@ -1,3 +1,19 @@
+- To download the dataset online, use the following function:
+```.py
+!wget --no-check-certificate \
+    "https://download.microsoft.com/download/3/E/1/3E1C3F21-ECDB-4869-8368-6DEBA77B919F/kagglecatsanddogs_5340.zip" \
+    -O "/tmp/cats-and-dogs.zip"
+```
+
+- To unzip the file
+```.py
+local_zip = '/tmp/cats-and-dogs.zip'
+zip_ref   = zipfile.ZipFile(local_zip, 'r')
+zip_ref.extractall('/tmp')
+zip_ref.close()
+```
+
+
 - Training a convolutional neural network. Images => Conv2D => MaxPooling => Flatten Layer => Dense Layer => Output
 ```.py
 import tensorflow as tf
