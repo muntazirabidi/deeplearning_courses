@@ -148,3 +148,7 @@ Overfitting is simply the concept of being over specialized in training -- namel
 - Demonstrate overfitting or lack of by plotting training and validation accuracies
 - Familiarize with the ImageDataGenerator parameters used for carrying out image augmentation
 - Learn how to mitigate overfitting by using data augmentation techniques
+
+**Notes**
+
+- [To know more about augmentation](https://keras.io/api/layers/preprocessing_layers/)
