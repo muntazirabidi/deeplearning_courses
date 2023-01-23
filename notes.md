@@ -28,7 +28,7 @@ model.compile(optimizer=RMSprop(learning_rate=0.001),
               metrics = ['accuracy'])
 ```
 
-- Data Preprocessing using `DataImagegenerator`:
+- Data Preprocessing using `ImageDatagenerator`:
 
 ```.py
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
