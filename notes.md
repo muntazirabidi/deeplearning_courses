@@ -18,3 +18,12 @@ model = tf.keras.models.Sequential([
     tf.keras.layers.Dense(1, activation='sigmoid')  
 ])
 ```
+
+- Compiling the model:
+```
+from tensorflow.keras.optimizers import RMSprop
+
+model.compile(optimizer=RMSprop(learning_rate=0.001),
+              loss='binary_crossentropy',
+              metrics = ['accuracy'])
+```
