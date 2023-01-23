@@ -52,3 +52,5 @@ validation_generator =  test_datagen.flow_from_directory(validation_dir,
                                                          class_mode  = 'binary',
                                                          target_size = (150, 150))
 ```
+
+- You can use review the architecture of the model using `model.summary()` method.
