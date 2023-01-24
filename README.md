@@ -168,8 +168,15 @@ Overfitting is simply the concept of being over specialized in training -- namel
 
 ## Week 3
 
+**Learning Objective**
+
 - Master the keras layer type known as dropout to avoid overfitting
 - Achieve transfer learning in code using the keras API
 - Code a model that implements Keras’ functional API instead of the commonly used Sequential model
 - Learn how to freeze layers from an existing model to successfully implement transfer learning
 - Explore the concept of transfer learning to use the convolutions learned by a different model from a larger dataset
+
+**Notes**
+- [Understanding Dropout](https://www.youtube.com/watch?v=ARq74QuavAo)
+
+
