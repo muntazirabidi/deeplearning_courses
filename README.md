@@ -155,8 +155,8 @@ Overfitting is simply the concept of being over specialized in training -- namel
 
 **Data**
 
--[Humans vs Horses : Training Set](https://storage.googleapis.com/tensorflow-1-public/course2/week3/horse-or-human.zip)
--[Humans vs Horses : Validation Set](https://storage.googleapis.com/tensorflow-1-public/course2/week3/validation-horse-or-human.zip)
+- [Humans vs Horses : Training Set](https://storage.googleapis.com/tensorflow-1-public/course2/week3/horse-or-human.zip)
+- [Humans vs Horses : Validation Set](https://storage.googleapis.com/tensorflow-1-public/course2/week3/validation-horse-or-human.zip)
 
 **Jupyter Notebooks**
 
