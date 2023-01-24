@@ -178,5 +178,6 @@ Overfitting is simply the concept of being over specialized in training -- namel
 
 **Notes**
 - [Understanding Dropout](https://www.youtube.com/watch?v=ARq74QuavAo)
+- [Transfer Learning and Dropout](https://www.tensorflow.org/tutorials/images/transfer_learning)
 
 
