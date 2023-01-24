@@ -185,4 +185,5 @@ Overfitting is simply the concept of being over specialized in training -- namel
 **Jupyter Notebooks**
 
 - [Transfer Learning](https://github.com/muntazirabidi/deeplearning_courses/blob/main/Convolutional%20Neural%20Networks%20in%20TensorFlow/Notebooks/C2_W3_Lab_1_transfer_learning.ipynb)
+- [Assignment 3: Transfer Learning Using Inception Architecture](https://github.com/muntazirabidi/deeplearning_courses/blob/main/Convolutional%20Neural%20Networks%20in%20TensorFlow/Notebooks/C2W3_Assignment.ipynb)
 
