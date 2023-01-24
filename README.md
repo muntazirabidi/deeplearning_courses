@@ -182,3 +182,7 @@ Overfitting is simply the concept of being over specialized in training -- namel
 - [Inception architecture for Computer Vision](https://arxiv.org/abs/1512.00567)
 - [Pretrained weights](https://storage.googleapis.com/mledu-datasets/inception_v3_weights_tf_dim_ordering_tf_kernels_notop.h5)
 
+**Jupyter Notebooks**
+
+- [Transfer Learning](https://github.com/muntazirabidi/deeplearning_courses/blob/main/Convolutional%20Neural%20Networks%20in%20TensorFlow/Notebooks/C2_W3_Lab_1_transfer_learning.ipynb)
+
