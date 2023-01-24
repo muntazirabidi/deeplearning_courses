@@ -258,4 +258,9 @@ pre_trained_model.load_weights(local_weights_file)
 # Freeze the weights of the layers.
 for layer in pre_trained_model.layers:
   layer.trainable = False
+  
+  # Choose `mixed_7` as the last layer of your base model
+last_layer = pre_trained_model.get_layer('mixed7')
+print('last layer output shape: ', last_layer.output_shape)
+last_output = last_layer.output
 ```
