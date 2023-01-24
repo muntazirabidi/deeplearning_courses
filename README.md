@@ -180,6 +180,5 @@ Overfitting is simply the concept of being over specialized in training -- namel
 - [Understanding Dropout](https://www.youtube.com/watch?v=ARq74QuavAo)
 - [Transfer Learning and Dropout](https://www.tensorflow.org/tutorials/images/transfer_learning)
 - [Inception architecture for Computer Vision](https://arxiv.org/abs/1512.00567)
-- [Pretrained weights](https://storage.googleapis.com/mledu-datasets/inception_v3_weights_tf_dim_ordering_tf_kernels_notop.h5 \
-    -O /tmp/inception_v3_weights_tf_dim_ordering_tf_kernels_notop.h5)
+- [Pretrained weights](https://storage.googleapis.com/mledu-datasets/inception_v3_weights_tf_dim_ordering_tf_kernels_notop.h5)
 
