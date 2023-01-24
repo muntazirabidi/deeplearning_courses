@@ -154,6 +154,7 @@ Overfitting is simply the concept of being over specialized in training -- namel
 - [To know more about augmentation](https://keras.io/api/layers/preprocessing_layers/)
 
 **Data**
+
 -[Humans vs Horses : Training Set](https://storage.googleapis.com/tensorflow-1-public/course2/week3/horse-or-human.zip)
 -[Humans vs Horses : Validation Set](https://storage.googleapis.com/tensorflow-1-public/course2/week3/validation-horse-or-human.zip)
 
