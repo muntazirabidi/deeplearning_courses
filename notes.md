@@ -221,3 +221,19 @@ for layer_name, feature_map in zip(layer_names, successive_feature_maps):
 ```
 
 
+- For Data augmentation in Tensorflow
+```.py
+from tensorflow.keras.preprocessing.image import ImageDataGenerator
+
+# Apply data augmentation
+train_datagen = ImageDataGenerator(
+      rescale=1./255,
+      rotation_range=40,
+      width_shift_range=0.2,
+      height_shift_range=0.2,
+      shear_range=0.2,
+      zoom_range=0.2,
+      horizontal_flip=True,
+      fill_mode='nearest')
+
+```
