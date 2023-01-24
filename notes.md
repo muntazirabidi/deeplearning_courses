@@ -264,3 +264,10 @@ last_layer = pre_trained_model.get_layer('mixed7')
 print('last layer output shape: ', last_layer.output_shape)
 last_output = last_layer.output
 ```
+
+- Adding a dropout layer to avoid overfitting
+```.py
+# Add a dropout rate of 0.2
+x = layers.Dropout(0.2)(x)  
+```
+
