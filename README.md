@@ -164,3 +164,6 @@ Overfitting is simply the concept of being over specialized in training -- namel
 - [Data Augmentation](https://github.com/muntazirabidi/deeplearning_courses/blob/main/Convolutional%20Neural%20Networks%20in%20TensorFlow/Notebooks/C2_W2_Lab_1_cats_v_dogs_augmentation.ipynb)
 - [Data Augmentation on the Horses or Humans Dataset](https://github.com/muntazirabidi/deeplearning_courses/blob/main/Convolutional%20Neural%20Networks%20in%20TensorFlow/Notebooks/C2_W2_Lab_2_horses_v_humans_augmentation.ipynb)
 - [Tackle Overfitting with Data Augmentation](https://github.com/muntazirabidi/deeplearning_courses/blob/main/Convolutional%20Neural%20Networks%20in%20TensorFlow/Notebooks/C2W1_Assignment.ipynb)
+
+
+## Week 3
