@@ -152,6 +152,7 @@ Overfitting is simply the concept of being over specialized in training -- namel
 **Notes**
 
 - [To know more about augmentation](https://keras.io/api/layers/preprocessing_layers/)
+- Data augmentation can solve overfitting in Cats vs Dogs datasets. But applied the dataset of Humans vs Horses, it doesn't perform well. The reason could be that data augmentation do not revognise the features in the validation set. 
 
 **Data**
 
