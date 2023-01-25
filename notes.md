@@ -271,3 +271,27 @@ last_output = last_layer.output
 x = layers.Dropout(0.2)(x)  
 ```
 
+- Upload images to test your ML model predictions:
+'''.py
+## CODE BLOCK FOR NON-SAFARI BROWSERS
+## SAFARI USERS: PLEASE SKIP THIS BLOCK AND RUN THE NEXT ONE INSTEAD
+
+import numpy as np
+from google.colab import files
+from tensorflow.keras.utils import load_img, img_to_array
+
+uploaded = files.upload()
+
+for fn in uploaded.keys():
+ 
+  # predicting images
+  path = fn
+  img = load_img(path, target_size=(150, 150))
+  x = img_to_array(img)
+  x = np.expand_dims(x, axis=0)
+
+  images = np.vstack([x])
+  classes = model.predict(images, batch_size=10)
+  print(fn)
+  print(classes)
+'''
