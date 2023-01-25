@@ -203,4 +203,4 @@ Overfitting is simply the concept of being over specialized in training -- namel
 
 
 **Jupyter Notebooks**
--[Multi-class Classifier]()
+-[Multi-class Classifier](https://github.com/muntazirabidi/deeplearning_courses/blob/main/Convolutional%20Neural%20Networks%20in%20TensorFlow/Notebooks/C2_W4_Lab_1_multi_class_classifier.ipynb)
