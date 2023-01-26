@@ -235,3 +235,4 @@ The first step in understanding sentiment in text, and in particular when traini
 
 - [Tokenizer Basics](https://github.com/muntazirabidi/deeplearning_courses/blob/main/NLP%20in%20TensorFlow/Notebooks/C3_W1_Lab_1_tokenize_basic.ipynb)
 - [Generating Sequences and Padding](https://github.com/muntazirabidi/deeplearning_courses/blob/main/NLP%20in%20TensorFlow/Notebooks/C3_W1_Lab_2_sequences_basic.ipynb)
+- [Tokenizing the Sarcasm Dataset](https://github.com/muntazirabidi/deeplearning_courses/blob/main/NLP%20in%20TensorFlow/Notebooks/C3_W1_Lab_3_sarcasm.ipynb)
