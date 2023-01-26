@@ -272,10 +272,7 @@ x = layers.Dropout(0.2)(x)
 ```
 
 - Upload images to test your ML model predictions:
-'''.py
-## CODE BLOCK FOR NON-SAFARI BROWSERS
-## SAFARI USERS: PLEASE SKIP THIS BLOCK AND RUN THE NEXT ONE INSTEAD
-
+```.py
 import numpy as np
 from google.colab import files
 from tensorflow.keras.utils import load_img, img_to_array
@@ -294,4 +291,4 @@ for fn in uploaded.keys():
   classes = model.predict(images, batch_size=10)
   print(fn)
   print(classes)
-'''
+```
