@@ -218,4 +218,4 @@ In this course we spent a lot of time on Convolutional Neural Networks:
 - Looking at the coding considerations between binary or multi-class classification
 
 
-# Course 3: [Natural Language Processing in TensorFlow]()
+# Course 3: [Natural Language Processing in TensorFlow](https://github.com/muntazirabidi/deeplearning_courses/tree/main/NLP%20in%20TensorFlow)
