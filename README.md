@@ -219,3 +219,11 @@ In this course we spent a lot of time on Convolutional Neural Networks:
 
 
 # Course 3: [Natural Language Processing in TensorFlow](https://github.com/muntazirabidi/deeplearning_courses/tree/main/NLP%20in%20TensorFlow)
+
+## Week 1
+
+**Learning Objectives**
+
+The first step in understanding sentiment in text, and in particular when training a neural network to do so is the tokenization of that text. This is the process of converting the text into numeric values, with a number representing a word or a character. We will learn about the Tokenizer and pad_sequences APIs in TensorFlow and how they can be used to prepare and encode text and sentences to get them ready for training neural networks!
+
+
