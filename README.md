@@ -207,3 +207,12 @@ Overfitting is simply the concept of being over specialized in training -- namel
 
 - [Multi-class Classifier](https://github.com/muntazirabidi/deeplearning_courses/blob/main/Convolutional%20Neural%20Networks%20in%20TensorFlow/Notebooks/C2_W4_Lab_1_multi_class_classifier.ipynb)
 - [Assignment 4: Multi-class Classifier of Sign Languages](https://github.com/muntazirabidi/deeplearning_courses/blob/main/Convolutional%20Neural%20Networks%20in%20TensorFlow/Notebooks/C2W4_Assignment.ipynb)
+
+## Summary
+In this course we spent a lot of time on Convolutional Neural Networks: 
+
+- Exploring how to use them with large datasets
+
+- Taking advantage of augmentation, dropout, regularization, and transfer learning
+
+- Looking at the coding considerations between binary or multi-class classification
