@@ -226,6 +226,10 @@ In this course we spent a lot of time on Convolutional Neural Networks:
 
 The first step in understanding sentiment in text, and in particular when training a neural network to do so is the tokenization of that text. This is the process of converting the text into numeric values, with a number representing a word or a character. We will learn about the Tokenizer and pad_sequences APIs in TensorFlow and how they can be used to prepare and encode text and sentences to get them ready for training neural networks!
 
+**Data**
+
+- [News headlines dataset for sarcasm detection](https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detection)
+
 **Jupyter Notebooks**
 
 - [Tokenizer Basics](https://github.com/muntazirabidi/deeplearning_courses/blob/main/NLP%20in%20TensorFlow/Notebooks/C3_W1_Lab_1_tokenize_basic.ipynb)
