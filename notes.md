@@ -296,3 +296,19 @@ for fn in uploaded.keys():
 ```
 
 # NLP
+- convert words into texts:
+```.py
+import tensorflow as tf
+from tensorflow import keras
+from tensorflow.keras.preprocessing.texts import Tokenizer
+
+sentences = [
+'I love my cat',
+'I love my dog'
+]
+
+tokenizer = Tokensizer(num_words = 100)
+tokenizer.fit_on_texts(sentences)
+word_index = tokensizer.word_index
+print(word_index)
+```
