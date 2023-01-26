@@ -228,7 +228,8 @@ The first step in understanding sentiment in text, and in particular when traini
 
 **Data**
 
-- [News headlines dataset for sarcasm detection](https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detection)
+- [News headlines dataset for sarcasm detection: Kaagle](https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detection)
+- [Download the Dataset](https://storage.googleapis.com/tensorflow-1-public/course3/sarcasm.json)
 
 **Jupyter Notebooks**
 
