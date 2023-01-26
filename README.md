@@ -200,6 +200,7 @@ Overfitting is simply the concept of being over specialized in training -- namel
 **Data**
 
 - [Data sets used in this course](https://laurencemoroney.com/datasets.html)
+- [Sign Language MNIST](https://www.kaggle.com/datamunge/sign-language-mnist)
 
 
 **Jupyter Notebooks**
