@@ -216,3 +216,6 @@ In this course we spent a lot of time on Convolutional Neural Networks:
 - Taking advantage of augmentation, dropout, regularization, and transfer learning
 
 - Looking at the coding considerations between binary or multi-class classification
+
+
+# Course 3: [Natural Language Processing in TensorFlow]()
